@@ -6,7 +6,7 @@ build-backend = "hatchling.build"
 
 [project]
 name = "oee_lib_calculator"
-version = "0.0.2"
+version = "0.0.3"
 authors = [
     { name="Sergio Oliveira", email="oliveira-sergio@outlook.com" },
 ]
