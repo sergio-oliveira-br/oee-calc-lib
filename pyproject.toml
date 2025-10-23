@@ -6,7 +6,7 @@ build-backend = "hatchling.build"
 
 [project]
 name = "performance_calculator"
-version = "1.0.0"
+version = "1.0.1"
 authors = [
     { name="Sergio Oliveira", email="oliveira-sergio@outlook.com" },
 ]
@@ -28,4 +28,4 @@ license-files = ["LICEN[CS]E*"]
 "Bug Tracker" = "https://github.com/sergio-oliveira-br/oee-calc-lib/issues"
 
 [tool.hatch.build.targets.wheel]
-packages = ["src"]
+packages = ["src/oee_lib"]
