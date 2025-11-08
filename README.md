@@ -8,7 +8,7 @@ The name of this distributable package (as defined in `pyproject.toml`) is **`pe
 
 ---
 
-## 🎯 Academic Objective (LO3)
+## 🎯 Academic Objective
 
 This project was developed with the main goal of demonstrating **Domain-Driven Design (DDD) Software Architecture**, **Modularization** (LO3), and **Object-Oriented Programming (OOP)**.
 
