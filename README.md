@@ -1,9 +1,5 @@
 # PyOEE-Calc: A Python Library for Performance Calculation
 
-![GitHub last commit](https://img.shields.io/github/last-commit/sergio-oliveira-br/oee-calc-lib)
-![License](https://img.shields.io/github/license/sergio-oliveira-br/oee-calc-lib?color=blue)
-![Python Version](https://img.shields.io/badge/python-%3E%3D3.7-blue)
-
 The name of this distributable package (as defined in `pyproject.toml`) is **`performance_calculator`**.
 
 ---
