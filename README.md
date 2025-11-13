@@ -1,4 +1,4 @@
-# PyOEE-Calc: A Python Library for Performance Factor Calculation
+# PyOEE-Calc: A Python Library for Performance Calculation
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/sergio-oliveira-br/oee-calc-lib)
 ![License](https://img.shields.io/github/license/sergio-oliveira-br/oee-calc-lib?color=blue)
@@ -10,7 +10,7 @@ The name of this distributable package (as defined in `pyproject.toml`) is **`pe
 
 ## 🎯 Academic Objective
 
-This project was developed with the main goal of demonstrating **Domain-Driven Design (DDD) Software Architecture**, **Modularization** (LO3), and **Object-Oriented Programming (OOP)**.
+This project was developed with the main goal of demonstrating **Domain-Driven Design (DDD) Software Architecture**, **Modularization**, and **Object-Oriented Programming (OOP)**.
 
 The `oee-calc-lib` repository houses the library that isolates the **Domain Logic** (OEE Performance calculation) from the **Application Logic** (e.g., the Django web interface and AWS integrations). This modular separation ensures the core calculation can be reused across any part of the system or in different future platforms.
 
